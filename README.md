@@ -1,13 +1,10 @@
 # web-development
 
-This repository contains multiple web development projects that demonstrate my skills in HTML, CSS, JavaScript, and more.
+This repository contains web development projects that demonstrate my skills in HTML, CSS, JavaScript, and more.
 
 ## Projects
 
-- **Project 1**: [Project 1 description]
-- **Project 2**: [Project 2 description]
-
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Navigate to the folder of a specific project and open the `index.html` file in your browser.
+- **Project 1**: Personal Site
+    - This site allows one to have a multipage personal site with a landing page to introduce themselves and a portfolio page to demonstrate their work. Pages are reconfigured for smaller devices.
+    - **Features**: navigation bar, landing page, about section, portfolio page with collapsible sections
+    - mel-que.github.io/web-development/personal-site-example
